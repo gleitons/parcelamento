@@ -1,0 +1,15 @@
+
+.itens{
+    display: flex;
+}
+.negrito{
+    font-weight: 900;
+}
+.parcelamento{
+    background-color: rgb(204, 232, 245);
+    padding: 10px;
+}
+.nfe{
+    background-color: rgb(191, 238, 211);
+    padding: 10px;
+}
