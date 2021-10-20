@@ -1,0 +1,11 @@
+header {
+    margin: auto;
+}
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    width: 100%;
+    margin: 0px;
+}
